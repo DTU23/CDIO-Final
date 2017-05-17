@@ -1,11 +1,11 @@
-package dk.dtu_23.model.data.dao;
+package dk.dtu.model.data.dao;
 
-import dk.dtu_23.model.ProductBatchCompDTO;
-import dk.dtu_23.model.ProductBatchCompOverviewDTO;
-import dk.dtu_23.model.ProductBatchCompSupplierDetailsDTO;
-import dk.dtu_23.model.ProductBatchDTO;
-import dk.dtu_23.model.data.connector.Connector;
-import dk.dtu_23.model.data.interfaces.DALException;
+import dk.dtu.model.DTO.ProductBatchCompDTO;
+import dk.dtu.model.DTO.ProductBatchCompOverviewDTO;
+import dk.dtu.model.DTO.ProductBatchCompSupplierDetailsDTO;
+import dk.dtu.model.DTO.ProductBatchDTO;
+import dk.dtu.model.data.connector.Connector;
+import dk.dtu.model.data.interfaces.DALException;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

@@ -14,7 +14,7 @@ import javax.ws.rs.core.MediaType;
 
 import main.java.dk.dtu.model.IDAL;
 import main.java.dk.dtu.model.IDAL.DALException;
-import main.java.dk.dtu.model.OperatorDAO;
+import dk.dtu.model.DTO.OperatorDAO;
 import main.java.dk.dtu.model.Validation;
 import main.java.dk.dtu.model.DTO.OperatorDTO;
 

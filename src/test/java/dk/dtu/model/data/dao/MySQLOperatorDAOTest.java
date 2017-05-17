@@ -1,4 +1,4 @@
-package dk.dtu_23.model.data.dao;
+package dk.dtu.model.data.dao;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.assertThat;
@@ -9,10 +9,10 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import dk.dtu_23.model.data.connector.Connector;
-import dk.dtu_23.model.OperatorDTO;
-import dk.dtu_23.model.OperatorNoPWDTO;
-import dk.dtu_23.model.data.interfaces.DALException;
+import dk.dtu.model.data.connector.Connector;
+import dk.dtu.model.OperatorDTO;
+import dk.dtu.model.DTO.OperatorNoPWDTO;
+import dk.dtu.model.data.interfaces.DALException;
 
 public class MySQLOperatorDAOTest {
 

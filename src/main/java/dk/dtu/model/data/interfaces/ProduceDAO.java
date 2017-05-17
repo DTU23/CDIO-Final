@@ -1,7 +1,7 @@
-package dk.dtu_23.model.data.interfaces;
+package dk.dtu.model.data.interfaces;
 
-import dk.dtu_23.model.ProduceDTO;
-import dk.dtu_23.model.ProduceOverviewDTO;
+import dk.dtu.model.DTO.ProduceDTO;
+import dk.dtu.model.DTO.ProduceOverviewDTO;
 
 import java.util.List;
 

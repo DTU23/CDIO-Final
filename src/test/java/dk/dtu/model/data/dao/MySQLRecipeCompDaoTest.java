@@ -1,4 +1,4 @@
-package dk.dtu_23.model.data.dao;
+package dk.dtu.model.data.dao;
 
 import static org.hamcrest.CoreMatchers.equalTo;
 import static org.hamcrest.CoreMatchers.is;
@@ -13,9 +13,9 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-import dk.dtu_23.model.RecipeCompDTO;
-import dk.dtu_23.model.data.connector.Connector;
-import dk.dtu_23.model.data.interfaces.DALException;
+import dk.dtu.model.DTO.RecipeCompDTO;
+import dk.dtu.model.data.connector.Connector;
+import dk.dtu.model.data.interfaces.DALException;
 
 public class MySQLRecipeCompDaoTest {
 

@@ -1,4 +1,4 @@
-package dk.dtu_23.model;
+package dk.dtu.model;
 
 /**
  * Operatoer Data Access Objekt

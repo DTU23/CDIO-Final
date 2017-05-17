@@ -1,6 +1,6 @@
-package dk.dtu_23.model.data.interfaces;
+package dk.dtu.model.data.interfaces;
 
-import dk.dtu_23.model.RecipeCompDTO;
+import dk.dtu.model.DTO.RecipeCompDTO;
 
 import java.util.List;
 

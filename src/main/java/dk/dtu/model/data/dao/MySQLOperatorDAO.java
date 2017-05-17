@@ -1,10 +1,10 @@
-package dk.dtu_23.model.data.dao;
+package dk.dtu.model.data.dao;
 
-import dk.dtu_23.model.OperatorDTO;
-import dk.dtu_23.model.OperatorNoPWDTO;
-import dk.dtu_23.model.data.connector.Connector;
-import dk.dtu_23.model.data.interfaces.DALException;
-import dk.dtu_23.model.data.interfaces.OperatorDAO;
+import dk.dtu.model.OperatorDTO;
+import dk.dtu.model.DTO.OperatorNoPWDTO;
+import dk.dtu.model.data.connector.Connector;
+import dk.dtu.model.data.interfaces.DALException;
+import dk.dtu.model.data.interfaces.OperatorDAO;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

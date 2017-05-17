@@ -1,4 +1,4 @@
-package main.java.dk.dtu.model;
+package dk.dtu.model.DTO;
 
 import java.util.ArrayList;
 

@@ -1,9 +1,9 @@
-package dk.dtu_23.model.data.dao;
+package dk.dtu.model.data.dao;
 
-import dk.dtu_23.model.RecipeCompDTO;
-import dk.dtu_23.model.data.connector.Connector;
-import dk.dtu_23.model.data.interfaces.DALException;
-import dk.dtu_23.model.data.interfaces.RecipeCompDAO;
+import dk.dtu.model.DTO.RecipeCompDTO;
+import dk.dtu.model.data.connector.Connector;
+import dk.dtu.model.data.interfaces.DALException;
+import dk.dtu.model.data.interfaces.RecipeCompDAO;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;

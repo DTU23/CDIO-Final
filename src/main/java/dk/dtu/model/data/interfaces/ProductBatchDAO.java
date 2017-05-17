@@ -1,6 +1,6 @@
-package dk.dtu_23.model.data.interfaces;
+package dk.dtu.model.data.interfaces;
 
-import dk.dtu_23.model.ProductBatchDTO;
+import dk.dtu.model.DTO.ProductBatchDTO;
 
 import java.util.List;
 
